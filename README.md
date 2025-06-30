@@ -128,6 +128,10 @@ Production-ready codebase.
 ## 🔗 Live demo
 
 [**View the live app here →**](https://candid-taiyaki-01d09c.netlify.app/)
+## 📹 Demo Video
+
+Watch the live demo here: [Watch on YouTube](https://www.youtube.com/watch?v=P283LGyzXm4)
+
 
 ---
 
